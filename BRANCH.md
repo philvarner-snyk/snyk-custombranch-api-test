@@ -1,4 +1,4 @@
-# Branch fingerprint: main (default branch)
+# Branch fingerprint: custombranch-test (NON-default branch)
 
 This file exists so a human can tell at a glance which branch they are looking at.
 
